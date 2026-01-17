@@ -1,2 +1,2 @@
-# spring-boot-software-architectures
-Different software architecture patterns in Spring Boot
+# software-architectures-in-spring-boot
+Different software architecture patterns used in Spring Boot
